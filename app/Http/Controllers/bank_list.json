@@ -1,0 +1,1602 @@
+{
+    "status": "success",
+    "message": "The process was completed successfully",
+    "data": [
+        {
+            "bank_code": "100001",
+            "cbn_code": "",
+            "name": "FETS (My Wallet)",
+            "bank_short_name": "",
+            "disabled_for_vnuban": null
+        },
+        {
+            "bank_code": "100002",
+            "cbn_code": "",
+            "name": "Paga",
+            "bank_short_name": "",
+            "disabled_for_vnuban": null
+        },
+        {
+            "bank_code": "100003",
+            "cbn_code": "311",
+            "name": "Parkway-Readycash",
+            "bank_short_name": "parkway",
+            "disabled_for_vnuban": null
+        },
+        {
+            "bank_code": "100004",
+            "cbn_code": "999992",
+            "name": "Paycom (Opay)",
+            "bank_short_name": "paycom",
+            "disabled_for_vnuban": null
+        },
+        {
+            "bank_code": "100005",
+            "cbn_code": "",
+            "name": "Cellulant",
+            "bank_short_name": "",
+            "disabled_for_vnuban": null
+        },
+        {
+            "bank_code": "100006",
+            "cbn_code": "",
+            "name": "Etranzact",
+            "bank_short_name": "",
+            "disabled_for_vnuban": null
+        },
+        {
+            "bank_code": "100007",
+            "cbn_code": "304",
+            "name": "Stanbic IBTC @Ease Wal",
+            "bank_short_name": "stanbic-mobile",
+            "disabled_for_vnuban": null
+        },
+        {
+            "bank_code": "100008",
+            "cbn_code": "307",
+            "name": "Ecobank Xpress",
+            "bank_short_name": "ecobank-mobile",
+            "disabled_for_vnuban": null
+        },
+        {
+            "bank_code": "100009",
+            "cbn_code": "315",
+            "name": "GT Mobile Money",
+            "bank_short_name": "gtb-mobile",
+            "disabled_for_vnuban": null
+        },
+        {
+            "bank_code": "100010",
+            "cbn_code": "",
+            "name": "Teasy Mobile",
+            "bank_short_name": "",
+            "disabled_for_vnuban": null
+        },
+        {
+            "bank_code": "100011",
+            "cbn_code": "",
+            "name": "M-Kudi",
+            "bank_short_name": "",
+            "disabled_for_vnuban": null
+        },
+        {
+            "bank_code": "100012",
+            "cbn_code": "",
+            "name": "Vtnetwork",
+            "bank_short_name": "",
+            "disabled_for_vnuban": null
+        },
+        {
+            "bank_code": "100013",
+            "cbn_code": "323",
+            "name": "Accessmoney",
+            "bank_short_name": "access-mobile",
+            "disabled_for_vnuban": null
+        },
+        {
+            "bank_code": "100014",
+            "cbn_code": "",
+            "name": "Firstmonie Wallet",
+            "bank_short_name": "",
+            "disabled_for_vnuban": null
+        },
+        {
+            "bank_code": "100015",
+            "cbn_code": "",
+            "name": "Kegow",
+            "bank_short_name": "",
+            "disabled_for_vnuban": null
+        },
+        {
+            "bank_code": "100016",
+            "cbn_code": "",
+            "name": "Fortis Mobile",
+            "bank_short_name": "",
+            "disabled_for_vnuban": null
+        },
+        {
+            "bank_code": "100017",
+            "cbn_code": "",
+            "name": "Hedonmark",
+            "bank_short_name": "",
+            "disabled_for_vnuban": null
+        },
+        {
+            "bank_code": "100018",
+            "cbn_code": "322",
+            "name": "Zenith Mobile",
+            "bank_short_name": "zenith-mobile",
+            "disabled_for_vnuban": null
+        },
+        {
+            "bank_code": "100019",
+            "cbn_code": "",
+            "name": "Fidelity Mobile",
+            "bank_short_name": "",
+            "disabled_for_vnuban": null
+        },
+        {
+            "bank_code": "100020",
+            "cbn_code": "",
+            "name": "Moneybox",
+            "bank_short_name": "",
+            "disabled_for_vnuban": null
+        },
+        {
+            "bank_code": "100021",
+            "cbn_code": "",
+            "name": "Eartholeum (Qik Qik)",
+            "bank_short_name": "",
+            "disabled_for_vnuban": null
+        },
+        {
+            "bank_code": "100022",
+            "cbn_code": null,
+            "name": "Gomoney",
+            "bank_short_name": "sterling",
+            "disabled_for_vnuban": null
+        },
+        {
+            "bank_code": "100023",
+            "cbn_code": "",
+            "name": "Tagpay",
+            "bank_short_name": "",
+            "disabled_for_vnuban": null
+        },
+        {
+            "bank_code": "100024",
+            "cbn_code": "",
+            "name": "Imperial Homes Mortgage Bank",
+            "bank_short_name": "",
+            "disabled_for_vnuban": null
+        },
+        {
+            "bank_code": "100025",
+            "cbn_code": "",
+            "name": "Zinternet",
+            "bank_short_name": "",
+            "disabled_for_vnuban": null
+        },
+        {
+            "bank_code": "100026",
+            "cbn_code": "565",
+            "name": "One Finance",
+            "bank_short_name": "",
+            "disabled_for_vnuban": null
+        },
+        {
+            "bank_code": "100027",
+            "cbn_code": "",
+            "name": "Mimoney Intellifin Solutions",
+            "bank_short_name": "",
+            "disabled_for_vnuban": null
+        },
+        {
+            "bank_code": "100028",
+            "cbn_code": "",
+            "name": "Ag Mortgage Bank",
+            "bank_short_name": "",
+            "disabled_for_vnuban": null
+        },
+        {
+            "bank_code": "100029",
+            "cbn_code": "",
+            "name": "Innovectives Kesh",
+            "bank_short_name": "",
+            "disabled_for_vnuban": null
+        },
+        {
+            "bank_code": "100031",
+            "cbn_code": "",
+            "name": "FCMB Easy Account",
+            "bank_short_name": "",
+            "disabled_for_vnuban": null
+        },
+        {
+            "bank_code": "100032",
+            "cbn_code": "",
+            "name": "Contec Global Infotech",
+            "bank_short_name": "",
+            "disabled_for_vnuban": null
+        },
+        {
+            "bank_code": "100033",
+            "cbn_code": "",
+            "name": "Palmpay",
+            "bank_short_name": "",
+            "disabled_for_vnuban": null
+        },
+        {
+            "bank_code": "100052",
+            "cbn_code": "",
+            "name": "Access Yello and Beta",
+            "bank_short_name": "",
+            "disabled_for_vnuban": null
+        },
+        {
+            "bank_code": "110001",
+            "cbn_code": "",
+            "name": "Payattitude Online",
+            "bank_short_name": "",
+            "disabled_for_vnuban": null
+        },
+        {
+            "bank_code": "110002",
+            "cbn_code": "",
+            "name": "Flutterwave Tech Solutions",
+            "bank_short_name": "",
+            "disabled_for_vnuban": null
+        },
+        {
+            "bank_code": "110003",
+            "cbn_code": "",
+            "name": "Interswitch",
+            "bank_short_name": "",
+            "disabled_for_vnuban": null
+        },
+        {
+            "bank_code": "110004",
+            "cbn_code": "",
+            "name": "First Apple",
+            "bank_short_name": "",
+            "disabled_for_vnuban": null
+        },
+        {
+            "bank_code": "110005",
+            "cbn_code": "",
+            "name": "3Line",
+            "bank_short_name": "",
+            "disabled_for_vnuban": null
+        },
+        {
+            "bank_code": "110006",
+            "cbn_code": "",
+            "name": "Paystack Payments",
+            "bank_short_name": "",
+            "disabled_for_vnuban": null
+        },
+        {
+            "bank_code": "110007",
+            "cbn_code": "",
+            "name": "TeamApt",
+            "bank_short_name": "",
+            "disabled_for_vnuban": null
+        },
+        {
+            "bank_code": "400001",
+            "cbn_code": "501",
+            "name": "FSDH Merchant Bank",
+            "bank_short_name": "fsdh",
+            "disabled_for_vnuban": null
+        },
+        {
+            "bank_code": "090270",
+            "cbn_code": "",
+            "name": "Ab MFB",
+            "bank_short_name": "",
+            "disabled_for_vnuban": null
+        },
+        {
+            "bank_code": "070010",
+            "cbn_code": "",
+            "name": "Abbey Mortgage Bank",
+            "bank_short_name": "",
+            "disabled_for_vnuban": null
+        },
+        {
+            "bank_code": "090260",
+            "cbn_code": "",
+            "name": "Above Only MFB",
+            "bank_short_name": "",
+            "disabled_for_vnuban": null
+        },
+        {
+            "bank_code": "090197",
+            "cbn_code": "",
+            "name": "Abu MFB",
+            "bank_short_name": "",
+            "disabled_for_vnuban": null
+        },
+        {
+            "bank_code": "000014",
+            "cbn_code": "044",
+            "name": "Access Bank Nigeria",
+            "bank_short_name": "access",
+            "disabled_for_vnuban": true
+        },
+        {
+            "bank_code": "090134",
+            "cbn_code": "",
+            "name": "Accion MFB",
+            "bank_short_name": "",
+            "disabled_for_vnuban": null
+        },
+        {
+            "bank_code": "090160",
+            "cbn_code": "",
+            "name": "Addosser MFB",
+            "bank_short_name": "",
+            "disabled_for_vnuban": null
+        },
+        {
+            "bank_code": "090268",
+            "cbn_code": "",
+            "name": "Adeyemi College Staff MFB",
+            "bank_short_name": "",
+            "disabled_for_vnuban": null
+        },
+        {
+            "bank_code": "090292",
+            "cbn_code": "",
+            "name": "Afekhafe MFB",
+            "bank_short_name": "",
+            "disabled_for_vnuban": null
+        },
+        {
+            "bank_code": "090133",
+            "cbn_code": "",
+            "name": "Al-Barkah MFB",
+            "bank_short_name": "",
+            "disabled_for_vnuban": null
+        },
+        {
+            "bank_code": "090277",
+            "cbn_code": "",
+            "name": "Al-Hayat MFB",
+            "bank_short_name": "",
+            "disabled_for_vnuban": null
+        },
+        {
+            "bank_code": "090259",
+            "cbn_code": "",
+            "name": "Alekun MFB",
+            "bank_short_name": "",
+            "disabled_for_vnuban": null
+        },
+        {
+            "bank_code": "090297",
+            "cbn_code": "",
+            "name": "Alert MFB",
+            "bank_short_name": "",
+            "disabled_for_vnuban": null
+        },
+        {
+            "bank_code": "090131",
+            "cbn_code": "",
+            "name": "Allworkers MFB",
+            "bank_short_name": "",
+            "disabled_for_vnuban": null
+        },
+        {
+            "bank_code": "090169",
+            "cbn_code": "",
+            "name": "Alpha Kapital MFB",
+            "bank_short_name": "",
+            "disabled_for_vnuban": null
+        },
+        {
+            "bank_code": "090180",
+            "cbn_code": "",
+            "name": "Amju Unique MFB",
+            "bank_short_name": "",
+            "disabled_for_vnuban": null
+        },
+        {
+            "bank_code": "090116",
+            "cbn_code": "",
+            "name": "AMML MFB",
+            "bank_short_name": "",
+            "disabled_for_vnuban": null
+        },
+        {
+            "bank_code": "090143",
+            "cbn_code": "",
+            "name": "Apeks MFB",
+            "bank_short_name": "",
+            "disabled_for_vnuban": null
+        },
+        {
+            "bank_code": "090282",
+            "cbn_code": "",
+            "name": "Arise MFB",
+            "bank_short_name": "",
+            "disabled_for_vnuban": null
+        },
+        {
+            "bank_code": "090001",
+            "cbn_code": "401",
+            "name": "Aso Savings And Loans",
+            "bank_short_name": "aso-savings",
+            "disabled_for_vnuban": null
+        },
+        {
+            "bank_code": "090287",
+            "cbn_code": "",
+            "name": "Assetmatrix MFB",
+            "bank_short_name": "",
+            "disabled_for_vnuban": null
+        },
+        {
+            "bank_code": "090172",
+            "cbn_code": "",
+            "name": "Astrapolaris MFB",
+            "bank_short_name": "",
+            "disabled_for_vnuban": null
+        },
+        {
+            "bank_code": "090264",
+            "cbn_code": "",
+            "name": "Auchi MFB",
+            "bank_short_name": "",
+            "disabled_for_vnuban": null
+        },
+        {
+            "bank_code": "090188",
+            "cbn_code": "",
+            "name": "Baines Credit MFB",
+            "bank_short_name": "",
+            "disabled_for_vnuban": null
+        },
+        {
+            "bank_code": "090326",
+            "cbn_code": "",
+            "name": "Balogun Gambari MFB",
+            "bank_short_name": "",
+            "disabled_for_vnuban": null
+        },
+        {
+            "bank_code": "090136",
+            "cbn_code": "",
+            "name": "Baobab MFB",
+            "bank_short_name": "",
+            "disabled_for_vnuban": null
+        },
+        {
+            "bank_code": "090127",
+            "cbn_code": "",
+            "name": "BC Kash MFB",
+            "bank_short_name": "",
+            "disabled_for_vnuban": null
+        },
+        {
+            "bank_code": "090117",
+            "cbn_code": "",
+            "name": "Boctrust MFB",
+            "bank_short_name": "",
+            "disabled_for_vnuban": null
+        },
+        {
+            "bank_code": "090176",
+            "cbn_code": "",
+            "name": "Bosak MFB",
+            "bank_short_name": "",
+            "disabled_for_vnuban": null
+        },
+        {
+            "bank_code": "090148",
+            "cbn_code": "",
+            "name": "Bowen MFB",
+            "bank_short_name": "",
+            "disabled_for_vnuban": null
+        },
+        {
+            "bank_code": "070015",
+            "cbn_code": "",
+            "name": "Brent Mortgage Bank",
+            "bank_short_name": "",
+            "disabled_for_vnuban": null
+        },
+        {
+            "bank_code": "090293",
+            "cbn_code": "",
+            "name": "Brethren MFB",
+            "bank_short_name": "",
+            "disabled_for_vnuban": null
+        },
+        {
+            "bank_code": "090308",
+            "cbn_code": "",
+            "name": "Brightway MFB",
+            "bank_short_name": "",
+            "disabled_for_vnuban": null
+        },
+        {
+            "bank_code": "090154",
+            "cbn_code": "50823",
+            "name": "CEMCS MFB",
+            "bank_short_name": "",
+            "disabled_for_vnuban": null
+        },
+        {
+            "bank_code": "090141",
+            "cbn_code": "",
+            "name": "Chikum MFB",
+            "bank_short_name": "",
+            "disabled_for_vnuban": null
+        },
+        {
+            "bank_code": "090144",
+            "cbn_code": "",
+            "name": "CIT MFB",
+            "bank_short_name": "",
+            "disabled_for_vnuban": null
+        },
+        {
+            "bank_code": "000009",
+            "cbn_code": "023",
+            "name": "Citibank Nigeria",
+            "bank_short_name": "citibankng",
+            "disabled_for_vnuban": null
+        },
+        {
+            "bank_code": "090130",
+            "cbn_code": "",
+            "name": "Consumer MFB",
+            "bank_short_name": "",
+            "disabled_for_vnuban": null
+        },
+        {
+            "bank_code": "060001",
+            "cbn_code": "902",
+            "name": "Coronation Merchant Bank",
+            "bank_short_name": "cmfb",
+            "disabled_for_vnuban": null
+        },
+        {
+            "bank_code": "070006",
+            "cbn_code": "",
+            "name": "Covenant",
+            "bank_short_name": "",
+            "disabled_for_vnuban": null
+        },
+        {
+            "bank_code": "090159",
+            "cbn_code": "",
+            "name": "Credit Afrique MFB",
+            "bank_short_name": "",
+            "disabled_for_vnuban": null
+        },
+        {
+            "bank_code": "090167",
+            "cbn_code": "",
+            "name": "Daylight MFB",
+            "bank_short_name": "",
+            "disabled_for_vnuban": null
+        },
+        {
+            "bank_code": "090156",
+            "cbn_code": "",
+            "name": "E-Barcs MFB",
+            "bank_short_name": "",
+            "disabled_for_vnuban": null
+        },
+        {
+            "bank_code": "090294",
+            "cbn_code": "",
+            "name": "Eagle Flight MFB",
+            "bank_short_name": "",
+            "disabled_for_vnuban": null
+        },
+        {
+            "bank_code": "000010",
+            "cbn_code": "050",
+            "name": "Ecobank Bank",
+            "bank_short_name": "ecobank",
+            "disabled_for_vnuban": null
+        },
+        {
+            "bank_code": "090310",
+            "cbn_code": "",
+            "name": "EdFin MFB",
+            "bank_short_name": "",
+            "disabled_for_vnuban": null
+        },
+        {
+            "bank_code": "090097",
+            "cbn_code": "562",
+            "name": "Ekondo MFB",
+            "bank_short_name": "",
+            "disabled_for_vnuban": null
+        },
+        {
+            "bank_code": "090273",
+            "cbn_code": "",
+            "name": "Emeralds MFB",
+            "bank_short_name": "",
+            "disabled_for_vnuban": null
+        },
+        {
+            "bank_code": "090114",
+            "cbn_code": "",
+            "name": "Empire Trust MFB",
+            "bank_short_name": "",
+            "disabled_for_vnuban": null
+        },
+        {
+            "bank_code": "090189",
+            "cbn_code": "",
+            "name": "Esan MFB",
+            "bank_short_name": "",
+            "disabled_for_vnuban": null
+        },
+        {
+            "bank_code": "090166",
+            "cbn_code": "",
+            "name": "Eso-E MFB",
+            "bank_short_name": "",
+            "disabled_for_vnuban": null
+        },
+        {
+            "bank_code": "090304",
+            "cbn_code": "",
+            "name": "Evangel MFB",
+            "bank_short_name": "",
+            "disabled_for_vnuban": null
+        },
+        {
+            "bank_code": "090179",
+            "cbn_code": "",
+            "name": "Fast MFB",
+            "bank_short_name": "",
+            "disabled_for_vnuban": null
+        },
+        {
+            "bank_code": "060002",
+            "cbn_code": "911",
+            "name": "FBNQuest Merchant Bank",
+            "bank_short_name": "",
+            "disabled_for_vnuban": null
+        },
+        {
+            "bank_code": "090290",
+            "cbn_code": "",
+            "name": "FCT MFB",
+            "bank_short_name": "",
+            "disabled_for_vnuban": null
+        },
+        {
+            "bank_code": "090318",
+            "cbn_code": "",
+            "name": "Federal University Dutse MFB",
+            "bank_short_name": "",
+            "disabled_for_vnuban": null
+        },
+        {
+            "bank_code": "090298",
+            "cbn_code": "",
+            "name": "Fedpoly Nasarawa MFB",
+            "bank_short_name": "",
+            "disabled_for_vnuban": null
+        },
+        {
+            "bank_code": "090153",
+            "cbn_code": "",
+            "name": "FFS Microfinance",
+            "bank_short_name": "",
+            "disabled_for_vnuban": null
+        },
+        {
+            "bank_code": "000007",
+            "cbn_code": "070",
+            "name": "Fidelity Bank",
+            "bank_short_name": "fidelity",
+            "disabled_for_vnuban": null
+        },
+        {
+            "bank_code": "090126",
+            "cbn_code": "",
+            "name": "Fidfund MFB",
+            "bank_short_name": "",
+            "disabled_for_vnuban": null
+        },
+        {
+            "bank_code": "090111",
+            "cbn_code": "",
+            "name": "Finatrust MFB",
+            "bank_short_name": "",
+            "disabled_for_vnuban": null
+        },
+        {
+            "bank_code": "000016",
+            "cbn_code": "011",
+            "name": "First Bank of Nigeria",
+            "bank_short_name": "firstbank",
+            "disabled_for_vnuban": null
+        },
+        {
+            "bank_code": "000003",
+            "cbn_code": "214",
+            "name": "First City Monument Bank",
+            "bank_short_name": "fcmb",
+            "disabled_for_vnuban": null
+        },
+        {
+            "bank_code": "070014",
+            "cbn_code": "",
+            "name": "First Gen Mortgage Bank",
+            "bank_short_name": "",
+            "disabled_for_vnuban": null
+        },
+        {
+            "bank_code": "090163",
+            "cbn_code": "",
+            "name": "First Multiple MFB",
+            "bank_short_name": "",
+            "disabled_for_vnuban": null
+        },
+        {
+            "bank_code": "090285",
+            "cbn_code": "",
+            "name": "First Option MFB",
+            "bank_short_name": "",
+            "disabled_for_vnuban": null
+        },
+        {
+            "bank_code": "090164",
+            "cbn_code": "",
+            "name": "First Royal MFB",
+            "bank_short_name": "",
+            "disabled_for_vnuban": null
+        },
+        {
+            "bank_code": "090005",
+            "cbn_code": "",
+            "name": "First Trust Mortgage Bank",
+            "bank_short_name": "",
+            "disabled_for_vnuban": null
+        },
+        {
+            "bank_code": "090107",
+            "cbn_code": "",
+            "name": "First Trust Mortgage Bank",
+            "bank_short_name": "",
+            "disabled_for_vnuban": null
+        },
+        {
+            "bank_code": "070002",
+            "cbn_code": "",
+            "name": "Fortis MFB",
+            "bank_short_name": "",
+            "disabled_for_vnuban": null
+        },
+        {
+            "bank_code": "090145",
+            "cbn_code": "",
+            "name": "Full Range MFB",
+            "bank_short_name": "",
+            "disabled_for_vnuban": null
+        },
+        {
+            "bank_code": "090158",
+            "cbn_code": "",
+            "name": "Futo MFB",
+            "bank_short_name": "",
+            "disabled_for_vnuban": null
+        },
+        {
+            "bank_code": "090168",
+            "cbn_code": "",
+            "name": "Gashua MFB",
+            "bank_short_name": "",
+            "disabled_for_vnuban": null
+        },
+        {
+            "bank_code": "070009",
+            "cbn_code": "",
+            "name": "Gateway Mortgage Bank",
+            "bank_short_name": "",
+            "disabled_for_vnuban": null
+        },
+        {
+            "bank_code": "000027",
+            "cbn_code": "103",
+            "name": "Globus Bank",
+            "bank_short_name": "",
+            "disabled_for_vnuban": null
+        },
+        {
+            "bank_code": "090278",
+            "cbn_code": "",
+            "name": "Glory MFB",
+            "bank_short_name": "",
+            "disabled_for_vnuban": null
+        },
+        {
+            "bank_code": "090122",
+            "cbn_code": "",
+            "name": "Gowans MFB",
+            "bank_short_name": "",
+            "disabled_for_vnuban": null
+        },
+        {
+            "bank_code": "090178",
+            "cbn_code": "",
+            "name": "Greenbank MFB",
+            "bank_short_name": "",
+            "disabled_for_vnuban": null
+        },
+        {
+            "bank_code": "090269",
+            "cbn_code": "",
+            "name": "Greenville MFB",
+            "bank_short_name": "",
+            "disabled_for_vnuban": null
+        },
+        {
+            "bank_code": "090195",
+            "cbn_code": "",
+            "name": "Grooming MFB",
+            "bank_short_name": "",
+            "disabled_for_vnuban": null
+        },
+        {
+            "bank_code": "000013",
+            "cbn_code": "058",
+            "name": "Guaranty Trust Bank",
+            "bank_short_name": "gtb",
+            "disabled_for_vnuban": null
+        },
+        {
+            "bank_code": "090147",
+            "cbn_code": "",
+            "name": "Hackman MFB",
+            "bank_short_name": "",
+            "disabled_for_vnuban": null
+        },
+        {
+            "bank_code": "070017",
+            "cbn_code": "",
+            "name": "Haggai Mortgage Bank",
+            "bank_short_name": "",
+            "disabled_for_vnuban": null
+        },
+        {
+            "bank_code": "090291",
+            "cbn_code": "",
+            "name": "Hala MFB",
+            "bank_short_name": "",
+            "disabled_for_vnuban": null
+        },
+        {
+            "bank_code": "090121",
+            "cbn_code": "50383",
+            "name": "Hasal MFB",
+            "bank_short_name": "",
+            "disabled_for_vnuban": null
+        },
+        {
+            "bank_code": "000020",
+            "cbn_code": "030",
+            "name": "Heritage Bank",
+            "bank_short_name": "heritage",
+            "disabled_for_vnuban": null
+        },
+        {
+            "bank_code": "090118",
+            "cbn_code": "",
+            "name": "Ibile MFB",
+            "bank_short_name": "",
+            "disabled_for_vnuban": null
+        },
+        {
+            "bank_code": "090275",
+            "cbn_code": "",
+            "name": "Ikire MFB",
+            "bank_short_name": "",
+            "disabled_for_vnuban": null
+        },
+        {
+            "bank_code": "090279",
+            "cbn_code": "",
+            "name": "Ikire MFB",
+            "bank_short_name": "",
+            "disabled_for_vnuban": null
+        },
+        {
+            "bank_code": "090258",
+            "cbn_code": "",
+            "name": "Imo State MFB",
+            "bank_short_name": "",
+            "disabled_for_vnuban": null
+        },
+        {
+            "bank_code": "090157",
+            "cbn_code": "",
+            "name": "Infinity MFB",
+            "bank_short_name": "",
+            "disabled_for_vnuban": null
+        },
+        {
+            "bank_code": "070016",
+            "cbn_code": "",
+            "name": "Infinity Trust Mortgage Bank",
+            "bank_short_name": "",
+            "disabled_for_vnuban": null
+        },
+        {
+            "bank_code": "090149",
+            "cbn_code": "",
+            "name": "IRL MFB",
+            "bank_short_name": "",
+            "disabled_for_vnuban": null
+        },
+        {
+            "bank_code": "090211",
+            "cbn_code": "",
+            "name": "Itex Integrated Services",
+            "bank_short_name": "",
+            "disabled_for_vnuban": null
+        },
+        {
+            "bank_code": "000006",
+            "cbn_code": "301",
+            "name": "Jaiz Bank",
+            "bank_short_name": "jaiz",
+            "disabled_for_vnuban": null
+        },
+        {
+            "bank_code": "090003",
+            "cbn_code": "",
+            "name": "Jubilee Life",
+            "bank_short_name": "",
+            "disabled_for_vnuban": null
+        },
+        {
+            "bank_code": "090320",
+            "cbn_code": "",
+            "name": "Kadpoly MFB",
+            "bank_short_name": "",
+            "disabled_for_vnuban": null
+        },
+        {
+            "bank_code": "090191",
+            "cbn_code": "",
+            "name": "KCMB MFB",
+            "bank_short_name": "",
+            "disabled_for_vnuban": null
+        },
+        {
+            "bank_code": "000002",
+            "cbn_code": "082",
+            "name": "Keystone Bank",
+            "bank_short_name": "keystone",
+            "disabled_for_vnuban": null
+        },
+        {
+            "bank_code": "090299",
+            "cbn_code": "",
+            "name": "Kontagora MFB",
+            "bank_short_name": "",
+            "disabled_for_vnuban": null
+        },
+        {
+            "bank_code": "090380",
+            "cbn_code": "50200",
+            "name": "Kredi Bank",
+            "bank_short_name": "",
+            "disabled_for_vnuban": null
+        },
+        {
+            "bank_code": "090267",
+            "cbn_code": "50211",
+            "name": "Kuda MFB",
+            "bank_short_name": "",
+            "disabled_for_vnuban": null
+        },
+        {
+            "bank_code": "090155",
+            "cbn_code": "",
+            "name": "La Fayette MFB",
+            "bank_short_name": "",
+            "disabled_for_vnuban": null
+        },
+        {
+            "bank_code": "070012",
+            "cbn_code": "",
+            "name": "Lagos Building Investment Company",
+            "bank_short_name": "",
+            "disabled_for_vnuban": null
+        },
+        {
+            "bank_code": "090177",
+            "cbn_code": "",
+            "name": "LAPO MFB",
+            "bank_short_name": "",
+            "disabled_for_vnuban": null
+        },
+        {
+            "bank_code": "090271",
+            "cbn_code": "",
+            "name": "Lavender MFB",
+            "bank_short_name": "",
+            "disabled_for_vnuban": null
+        },
+        {
+            "bank_code": "090265",
+            "cbn_code": "",
+            "name": "Lovonus MFB",
+            "bank_short_name": "",
+            "disabled_for_vnuban": null
+        },
+        {
+            "bank_code": "090171",
+            "cbn_code": "",
+            "name": "Mainstreet MFB",
+            "bank_short_name": "",
+            "disabled_for_vnuban": null
+        },
+        {
+            "bank_code": "090174",
+            "cbn_code": "",
+            "name": "Malachy MFB",
+            "bank_short_name": "",
+            "disabled_for_vnuban": null
+        },
+        {
+            "bank_code": "090280",
+            "cbn_code": "",
+            "name": "Megapraise MFB",
+            "bank_short_name": "",
+            "disabled_for_vnuban": null
+        },
+        {
+            "bank_code": "090113",
+            "cbn_code": "",
+            "name": "Microvis MFB",
+            "bank_short_name": "",
+            "disabled_for_vnuban": null
+        },
+        {
+            "bank_code": "090192",
+            "cbn_code": "",
+            "name": "Midland MFB",
+            "bank_short_name": "",
+            "disabled_for_vnuban": null
+        },
+        {
+            "bank_code": "090281",
+            "cbn_code": "",
+            "name": "Mint-Finex MFB",
+            "bank_short_name": "",
+            "disabled_for_vnuban": null
+        },
+        {
+            "bank_code": "090129",
+            "cbn_code": "",
+            "name": "Money Trust MFB",
+            "bank_short_name": "",
+            "disabled_for_vnuban": null
+        },
+        {
+            "bank_code": "090190",
+            "cbn_code": "",
+            "name": "Mutual Benefits Mifb",
+            "bank_short_name": "",
+            "disabled_for_vnuban": null
+        },
+        {
+            "bank_code": "090151",
+            "cbn_code": "",
+            "name": "Mutual Trust MFB",
+            "bank_short_name": "",
+            "disabled_for_vnuban": null
+        },
+        {
+            "bank_code": "090152",
+            "cbn_code": "",
+            "name": "Nargata MFB",
+            "bank_short_name": "",
+            "disabled_for_vnuban": null
+        },
+        {
+            "bank_code": "090128",
+            "cbn_code": "",
+            "name": "Ndiorah MFB",
+            "bank_short_name": "",
+            "disabled_for_vnuban": null
+        },
+        {
+            "bank_code": "090205",
+            "cbn_code": "",
+            "name": "New Dawn MFB",
+            "bank_short_name": "",
+            "disabled_for_vnuban": null
+        },
+        {
+            "bank_code": "090108",
+            "cbn_code": "",
+            "name": "New Prudential Bank",
+            "bank_short_name": "",
+            "disabled_for_vnuban": null
+        },
+        {
+            "bank_code": "090263",
+            "cbn_code": "",
+            "name": "Nigerian Navy MFB",
+            "bank_short_name": "",
+            "disabled_for_vnuban": null
+        },
+        {
+            "bank_code": "070001",
+            "cbn_code": "",
+            "name": "Nigerian Police Force MFB",
+            "bank_short_name": "",
+            "disabled_for_vnuban": null
+        },
+        {
+            "bank_code": "090194",
+            "cbn_code": "",
+            "name": "Nirsal MFB",
+            "bank_short_name": "",
+            "disabled_for_vnuban": null
+        },
+        {
+            "bank_code": "090283",
+            "cbn_code": "",
+            "name": "Nnew Women MFB",
+            "bank_short_name": "",
+            "disabled_for_vnuban": null
+        },
+        {
+            "bank_code": "060003",
+            "cbn_code": "561",
+            "name": "Nova Merchant Bank",
+            "bank_short_name": "",
+            "disabled_for_vnuban": null
+        },
+        {
+            "bank_code": "090119",
+            "cbn_code": "",
+            "name": "Ohafia MFB",
+            "bank_short_name": "",
+            "disabled_for_vnuban": null
+        },
+        {
+            "bank_code": "090161",
+            "cbn_code": "",
+            "name": "Okpoga MFB",
+            "bank_short_name": "",
+            "disabled_for_vnuban": null
+        },
+        {
+            "bank_code": "090272",
+            "cbn_code": "",
+            "name": "Olabisi Onabanjo University MFB",
+            "bank_short_name": "",
+            "disabled_for_vnuban": null
+        },
+        {
+            "bank_code": "090295",
+            "cbn_code": "",
+            "name": "Omiye MFB",
+            "bank_short_name": "",
+            "disabled_for_vnuban": null
+        },
+        {
+            "bank_code": "070007",
+            "cbn_code": "",
+            "name": "Omoluabi Mortgage Bank",
+            "bank_short_name": "",
+            "disabled_for_vnuban": null
+        },
+        {
+            "bank_code": "070008",
+            "cbn_code": "",
+            "name": "Page Financials",
+            "bank_short_name": "",
+            "disabled_for_vnuban": null
+        },
+        {
+            "bank_code": "090004",
+            "cbn_code": "526",
+            "name": "Parallex MFB",
+            "bank_short_name": "parallex",
+            "disabled_for_vnuban": null
+        },
+        {
+            "bank_code": "090317",
+            "cbn_code": "",
+            "name": "Patrickgold MFB",
+            "bank_short_name": "",
+            "disabled_for_vnuban": null
+        },
+        {
+            "bank_code": "090137",
+            "cbn_code": "",
+            "name": "Pecantrust MFB",
+            "bank_short_name": "",
+            "disabled_for_vnuban": null
+        },
+        {
+            "bank_code": "090196",
+            "cbn_code": "",
+            "name": "Pennywise MFB",
+            "bank_short_name": "",
+            "disabled_for_vnuban": null
+        },
+        {
+            "bank_code": "090135",
+            "cbn_code": "",
+            "name": "Personal Trust MFB",
+            "bank_short_name": "",
+            "disabled_for_vnuban": null
+        },
+        {
+            "bank_code": "090165",
+            "cbn_code": "",
+            "name": "Petra MFB",
+            "bank_short_name": "",
+            "disabled_for_vnuban": null
+        },
+        {
+            "bank_code": "090289",
+            "cbn_code": "",
+            "name": "Pillar MFB",
+            "bank_short_name": "",
+            "disabled_for_vnuban": null
+        },
+        {
+            "bank_code": "070013",
+            "cbn_code": "",
+            "name": "Platinum Mortgage Bank",
+            "bank_short_name": "",
+            "disabled_for_vnuban": null
+        },
+        {
+            "bank_code": "000008",
+            "cbn_code": "076",
+            "name": "Polaris Bank",
+            "bank_short_name": "PBL",
+            "disabled_for_vnuban": null
+        },
+        {
+            "bank_code": "090296",
+            "cbn_code": "",
+            "name": "Polyuwana MFB",
+            "bank_short_name": "",
+            "disabled_for_vnuban": null
+        },
+        {
+            "bank_code": "090274",
+            "cbn_code": "",
+            "name": "Prestige MFB",
+            "bank_short_name": "",
+            "disabled_for_vnuban": null
+        },
+        {
+            "bank_code": "000023",
+            "cbn_code": "101",
+            "name": "Providus Bank",
+            "bank_short_name": "providus",
+            "disabled_for_vnuban": null
+        },
+        {
+            "bank_code": "090303",
+            "cbn_code": "",
+            "name": "Purplemoney MFB",
+            "bank_short_name": "",
+            "disabled_for_vnuban": null
+        },
+        {
+            "bank_code": "090261",
+            "cbn_code": "",
+            "name": "Quickfund MFB",
+            "bank_short_name": "",
+            "disabled_for_vnuban": null
+        },
+        {
+            "bank_code": "090170",
+            "cbn_code": "",
+            "name": "Rahama MFB",
+            "bank_short_name": "",
+            "disabled_for_vnuban": null
+        },
+        {
+            "bank_code": "000024",
+            "cbn_code": "502",
+            "name": "Rand Merchant Bank",
+            "bank_short_name": "",
+            "disabled_for_vnuban": null
+        },
+        {
+            "bank_code": "070011",
+            "cbn_code": "",
+            "name": "Refuge Mortgage Bank",
+            "bank_short_name": "",
+            "disabled_for_vnuban": null
+        },
+        {
+            "bank_code": "090125",
+            "cbn_code": "",
+            "name": "Regent MFB",
+            "bank_short_name": "",
+            "disabled_for_vnuban": null
+        },
+        {
+            "bank_code": "090173",
+            "cbn_code": "",
+            "name": "Reliance MFB",
+            "bank_short_name": "",
+            "disabled_for_vnuban": null
+        },
+        {
+            "bank_code": "090198",
+            "cbn_code": "",
+            "name": "Renmoney MFB",
+            "bank_short_name": "",
+            "disabled_for_vnuban": null
+        },
+        {
+            "bank_code": "090132",
+            "cbn_code": "",
+            "name": "Richway MFB",
+            "bank_short_name": "",
+            "disabled_for_vnuban": null
+        },
+        {
+            "bank_code": "090405",
+            "cbn_code": "50515",
+            "name": "Rolez Bank",
+            "bank_short_name": null,
+            "disabled_for_vnuban": null
+        },
+        {
+            "bank_code": "090138",
+            "cbn_code": "",
+            "name": "Royal Exchange MFB",
+            "bank_short_name": "",
+            "disabled_for_vnuban": null
+        },
+        {
+            "bank_code": "090175",
+            "cbn_code": "125",
+            "name": "Rubies MFB",
+            "bank_short_name": "RMB",
+            "disabled_for_vnuban": null
+        },
+        {
+            "bank_code": "090286",
+            "cbn_code": "",
+            "name": "Safe Haven MFB",
+            "bank_short_name": "",
+            "disabled_for_vnuban": null
+        },
+        {
+            "bank_code": "090006",
+            "cbn_code": "",
+            "name": "Safetrust Mortgage Bank",
+            "bank_short_name": "",
+            "disabled_for_vnuban": null
+        },
+        {
+            "bank_code": "090140",
+            "cbn_code": "",
+            "name": "Sagamu MFB",
+            "bank_short_name": "",
+            "disabled_for_vnuban": null
+        },
+        {
+            "bank_code": "090112",
+            "cbn_code": "",
+            "name": "Seed Capital MFB",
+            "bank_short_name": "",
+            "disabled_for_vnuban": null
+        },
+        {
+            "bank_code": "090325",
+            "cbn_code": "51310",
+            "name": "Sparkle Bank",
+            "bank_short_name": "SPKL",
+            "disabled_for_vnuban": null
+        },
+        {
+            "bank_code": "000012",
+            "cbn_code": "221",
+            "name": "Stanbic IBTC",
+            "bank_short_name": "stanbic",
+            "disabled_for_vnuban": null
+        },
+        {
+            "bank_code": "000021",
+            "cbn_code": "068",
+            "name": "Standard Chartered Bank",
+            "bank_short_name": "standard-chartered",
+            "disabled_for_vnuban": null
+        },
+        {
+            "bank_code": "090162",
+            "cbn_code": "",
+            "name": "Stanford MFB",
+            "bank_short_name": "",
+            "disabled_for_vnuban": null
+        },
+        {
+            "bank_code": "090262",
+            "cbn_code": "",
+            "name": "Stellas MFB",
+            "bank_short_name": "",
+            "disabled_for_vnuban": null
+        },
+        {
+            "bank_code": "000001",
+            "cbn_code": "232",
+            "name": "Sterling Bank",
+            "bank_short_name": "",
+            "disabled_for_vnuban": null
+        },
+        {
+            "bank_code": "090305",
+            "cbn_code": "",
+            "name": "Sulspap MFB",
+            "bank_short_name": "",
+            "disabled_for_vnuban": null
+        },
+        {
+            "bank_code": "000022",
+            "cbn_code": "100",
+            "name": "Suntrust Bank",
+            "bank_short_name": "",
+            "disabled_for_vnuban": null
+        },
+        {
+            "bank_code": "000026",
+            "cbn_code": "302",
+            "name": "Taj Bank",
+            "bank_short_name": "",
+            "disabled_for_vnuban": null
+        },
+        {
+            "bank_code": "090115",
+            "cbn_code": "51211",
+            "name": "TCF MFB",
+            "bank_short_name": "",
+            "disabled_for_vnuban": null
+        },
+        {
+            "bank_code": "000025",
+            "cbn_code": "102",
+            "name": "Titan Trust Bank",
+            "bank_short_name": "",
+            "disabled_for_vnuban": null
+        },
+        {
+            "bank_code": "090146",
+            "cbn_code": "",
+            "name": "Trident MFB",
+            "bank_short_name": "",
+            "disabled_for_vnuban": null
+        },
+        {
+            "bank_code": "090123",
+            "cbn_code": "",
+            "name": "Trustbanc J6 MFB",
+            "bank_short_name": "",
+            "disabled_for_vnuban": null
+        },
+        {
+            "bank_code": "090276",
+            "cbn_code": "",
+            "name": "Trustfund MFB",
+            "bank_short_name": "",
+            "disabled_for_vnuban": null
+        },
+        {
+            "bank_code": "090266",
+            "cbn_code": "",
+            "name": "UNIBEN MFB",
+            "bank_short_name": "",
+            "disabled_for_vnuban": null
+        },
+        {
+            "bank_code": "090193",
+            "cbn_code": "",
+            "name": "UNICAL MFB",
+            "bank_short_name": "",
+            "disabled_for_vnuban": null
+        },
+        {
+            "bank_code": "000018",
+            "cbn_code": "032",
+            "name": "Union Bank of Nigeria",
+            "bank_short_name": "unionbank",
+            "disabled_for_vnuban": null
+        },
+        {
+            "bank_code": "000004",
+            "cbn_code": "033",
+            "name": "United Bank for Africa",
+            "bank_short_name": "uba",
+            "disabled_for_vnuban": null
+        },
+        {
+            "bank_code": "000011",
+            "cbn_code": "215",
+            "name": "Unity Bank",
+            "bank_short_name": "unity",
+            "disabled_for_vnuban": null
+        },
+        {
+            "bank_code": "090251",
+            "cbn_code": "",
+            "name": "Unn MFB",
+            "bank_short_name": "",
+            "disabled_for_vnuban": null
+        },
+        {
+            "bank_code": "090110",
+            "cbn_code": "566",
+            "name": "VFD MFB",
+            "bank_short_name": "vfd",
+            "disabled_for_vnuban": null
+        },
+        {
+            "bank_code": "090150",
+            "cbn_code": "",
+            "name": "Virtue MFB",
+            "bank_short_name": "",
+            "disabled_for_vnuban": null
+        },
+        {
+            "bank_code": "090139",
+            "cbn_code": "",
+            "name": "Visa MFB",
+            "bank_short_name": "",
+            "disabled_for_vnuban": null
+        },
+        {
+            "bank_code": "000017",
+            "cbn_code": "035",
+            "name": "Wema Bank",
+            "bank_short_name": "wema",
+            "disabled_for_vnuban": null
+        },
+        {
+            "bank_code": "090120",
+            "cbn_code": "",
+            "name": "Wetland MFB",
+            "bank_short_name": "",
+            "disabled_for_vnuban": null
+        },
+        {
+            "bank_code": "090124",
+            "cbn_code": "",
+            "name": "Xslnce MFB",
+            "bank_short_name": "",
+            "disabled_for_vnuban": null
+        },
+        {
+            "bank_code": "090142",
+            "cbn_code": "",
+            "name": "Yes MFB",
+            "bank_short_name": "",
+            "disabled_for_vnuban": null
+        },
+        {
+            "bank_code": "000015",
+            "cbn_code": "057",
+            "name": "Zenith Bank",
+            "bank_short_name": "zenith",
+            "disabled_for_vnuban": null
+        }
+    ]
+}
